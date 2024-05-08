@@ -1,8 +1,5 @@
 {
     "image": "centos:7",
-    "postCreateCommand": {
-        "init_script": "sh .devcontainer/init.sh"
-    },
     "customizations": {
         "vscode": {
             "settings": {
